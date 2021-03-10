@@ -1,5 +1,5 @@
 # html4-html5
-Convert HTML4 to HTML 5
+## Convert HTML4 to HTML 5
 1. Change the <!DOCTYPE> declaration from HTML 4.01 to the appropriate HTML5 declaration. This change will make the W3C validator check the file for HTML5 compliance, not HTML 4.01 compliance. Save the NotValid.html file.
 1. Browser: Access the W3C Markup Validation Service page.
 1. Click the Validate By File Upload link, click Choose File and navigate to the Lesson02\Optional_Lab_2-1\ folder. Select the Not Valid.html file you just modified, then click the Open button. The name of the file you want to upload will appear in the File field.
